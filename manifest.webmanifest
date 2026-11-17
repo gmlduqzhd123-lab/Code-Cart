@@ -1,0 +1,31 @@
+{
+  "id": "/Code-Cart/",
+  "name": "코드 카트 레이서",
+  "short_name": "코드 카트",
+  "description": "블록으로 명령을 짜서 카트를 움직이며 순차·반복·선택 알고리즘을 익히는 게임",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
